@@ -7,7 +7,7 @@ from mask_display import Display_choice
 
 # local paths
 
-file_path = 'C:/Users/ADMIN/Documents/understanding_cloud_organization/train.csv'
+file_path = 'train.csv'
 train_folder_path = 'C:/Users/ADMIN/Documents/understanding_cloud_organization/train_images'
 test_folder_path = 'C:/Users/ADMIN/Documents/understanding_cloud_organization/test_images'
 
